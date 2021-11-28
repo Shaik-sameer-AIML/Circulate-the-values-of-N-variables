@@ -40,7 +40,7 @@ def circulate():
 
 
 ## Output:
-![output]()
+![output](https://github.com/Shaik-sameer-AIML/Circulate-the-values-of-N-variables/blob/main/circulating%20values.JPG?Raw=true)
 
 ## Result:
 The program is executed
